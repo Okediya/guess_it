@@ -9,3 +9,5 @@ A simple number guessing game built with Python and Kivy. The player guesses a n
 - Random number generation
 - Balance tracking
 - Automatic game reset after correct guesses
+
+<!-- GitAds-Verify: PYVO2G72IFOMGXSQL426CYQ693F74K8U -->
