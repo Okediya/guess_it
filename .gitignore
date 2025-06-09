@@ -1,0 +1,18 @@
+# Buildozer build directories
+.buildozer/
+bin/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.bak
